@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
+
+th{
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+td{
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+li  {
+    text-align: center;
+    font-size: larger;
+    color: white;
+}
+a{
+    color: #FFB6C1;
+}
+

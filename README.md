@@ -1,2 +1,2 @@
-# jihee4157.github.io
+# jihee4157-profile
 First HTML project
