@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    text-align: center;
 }
 h1{
     text-align: center;
@@ -17,10 +18,12 @@ td{
     text-align: center;
     color: white;
 }
-li  {
-    text-align: center;
+ol  {
+    text-align: left;
     font-size: larger;
     color: white;
+    display:inline-block;
+
 }
 a{
     color: #FFB6C1;
