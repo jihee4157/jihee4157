@@ -1,2 +1,2 @@
-# jihee4157.gitub.io
+# jihee4157.github.io
 First HTML project
